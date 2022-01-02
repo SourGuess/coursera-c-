@@ -1,0 +1,3 @@
+C:/Users/DJabar/Desktop/projects/C++ coursera/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DJabar/Desktop/projects/C++ coursera/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/DJabar/Desktop/projects/C++ coursera/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
